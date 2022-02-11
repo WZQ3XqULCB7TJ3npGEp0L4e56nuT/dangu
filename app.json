@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "dangu",
+  "description": "dangu",
   "keywords": [
     "vmess or vles"
   ],
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/WZQ3XqULCB7TJ3npGEp0L4e56nuT/dangu",
+  "repository": "https://github.com/WZQ3XqULCB7TJ3npGEp0L4e56nuT/dangu",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
